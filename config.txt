@@ -1,0 +1,8 @@
+images/logo.jpg
+images/piece1.png
+images/piece2.png
+images/piece3.png
+images/piece4.png
+images/piece5.png
+images/piece6.png
+images/piece7.png
